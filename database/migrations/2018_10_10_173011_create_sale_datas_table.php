@@ -17,7 +17,7 @@ class CreateSaleDatasTable extends Migration
             $table->increments('id')->index();
             $table->integer('sessionName')->default(2);
             $table->date('fy');
-            $table->string('vouchars')->default('asbd');
+            $table->string('vouchars');
             $table->date('user_date');
             $table->integer('Form_no');
             $table->string('status');

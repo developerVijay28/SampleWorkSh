@@ -7,8 +7,30 @@
 
     <!-- Bootstrap CSS -->
     <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.1.3/css/bootstrap.min.css" integrity="sha384-MCw98/SFnGE8fJT3GXwEOngsV7Zt27NXFoaoApmYm81iuXoPkFOJwJ8ERdknLPMO" crossorigin="anonymous">
+    <link href="https://fonts.googleapis.com/css?family=Open+Sans:300,400,600,700%7CJosefin+Sans:600,700" rel="stylesheet">
+    <!-- FONTAWESOME ICONS -->
+    <link rel="stylesheet" href="https://fonts.googleapis.com/icon?family=Material+Icons">
+    <link href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+    <title>Shiv Jyoti Public School</title>
+    <link rel="shortcut icon" href="images/logo.png" type="image/x-icon">
+    <!-- GOOGLE FONT -->
 
-    <title>Sheely Sir Work</title>
+    
+    
+    
+    <!-- ALL CSS FILES -->
+    
+    <link href="{{url('/css/materialize.css')}}" rel="stylesheet" type="text/css">
+    <link href="{{url('/css/bootstrap.css')}}" rel="stylesheet" type="text/css" />
+    <link href="{{url('/css/style.css')}}" rel="stylesheet" type="text/css" />
+    <!-- RESPONSIVE.CSS ONLY FOR MOBILE AND TABLET VIEWS -->
+    <link href="{{url('/css/style-mob.css')}}" rel="stylesheet" type="text/css" />
+    <!-- HTML5 Shim and Respond.js IE8 support of HTML5 elements and media queries -->
+    <!-- WARNING: Respond.js doesn't work if you view the page via file:// -->
+    <!--[if lt IE 9]>
+	<script src="js/html5shiv.js"></script>
+	<script src="js/respond.min.js"></script>
+	<![endif]-->
   </head>
   <body>
     
